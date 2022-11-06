@@ -92,11 +92,11 @@ To accomplish all of this, complete the following steps:
 
 From the Terminal, start the streamlit application by navigating to the main folder and run the command "streamlit run krypto_jobs.py"
 
-The following photo is the main interface of the streamlit application. "Lane" is selected and assigned a job for "10 hours". After clicking "Send Transaction", a "Validated Transaction Hash" is displayed.
+The following photo is the main interface of the streamlit application. "Kendall" is selected and assigned a job for "3 hours". After clicking "Send Transaction", a "Validated Transaction Hash" is displayed.
 
 ![](Images/front.jpg)
 
-After the transaction is completed, the balance of the account is deducted accordingly to the "Wage".
+After 2 transactions are executed, the balance of the account is deducted accordingly to the "Wage".
 
 ![](Images/ganache.jpg)
 
@@ -104,3 +104,7 @@ After the transaction is completed, the balance of the account is deducted accor
 Navigate to the "TRANSACTIONS" tab in Ganache, we can see the transactions are recorded accordingly.
 
 ![](Images/ganache1.jpg)
+
+Click on the second transaction, we can see more details of this particular transaction.
+
+![](Images/ganache2.jpg)
